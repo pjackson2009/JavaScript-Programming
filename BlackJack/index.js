@@ -47,6 +47,4 @@ function twist(){
     updateMessage()
 }
 console.log(cards)
-
-console.log(playerCards)
 console.log(playerCards)
