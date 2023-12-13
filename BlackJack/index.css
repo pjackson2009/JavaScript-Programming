@@ -1,0 +1,43 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url("Blackjack\ Background.jpg");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#startGame-btn {
+    background: goldenrod;
+    color: darkgreen
+}
+
+#twist-btn {
+    background: darkgreen;
+}
+
+#stick-btn {
+    background: darkred;
+}
+
+#error {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
