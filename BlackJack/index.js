@@ -49,3 +49,4 @@ function twist(){
 console.log(cards)
 
 console.log(playerCards)
+console.log(playerCards)
